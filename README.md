@@ -3,6 +3,7 @@ Solving Partial Differential Equation Using Artificial Neural Network
 
 # Objective
 - To implement paper by lagarest et al on how to use artificial neural network for solving differential equation.
+- Link to the paper : https://arxiv.org/pdf/physics/9705023.pdf
 - Implemented using Tensorflow
 - Learned about how to create custom loss
 - Learned how to work with tf.GradientTape()
